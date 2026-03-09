@@ -24,6 +24,7 @@ body{
     justify-content: space-around;
     align-items: center;
     padding-top: 21px;
+    gap: 300px;
 }
 
 
@@ -124,7 +125,7 @@ nav{
 
 /*RESPONSIVIDADE*/
 
-@media (max-width: 780px){
+@media (max-width: 850px){
 
     .cabecalho{
         flex-direction: row;
